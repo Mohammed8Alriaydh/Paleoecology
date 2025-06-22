@@ -8,10 +8,8 @@ This R script performs a comprehensive biodiversity analysis of mammalian fossil
 1. **Data Characterization**: Calculates percentage representation of different taxonomic levels in the dataset
 2. **Taxonomic Composition**:
    - Pie charts showing relative abundance of taxa by rock unit
-   - Bar plots of carnivoran family distributions
 3. **Taxonomic Diversity**:
    - Beta diversity analysis using iNEXT.beta3D
-   - Dissimilarity metrics visualization
 4. **Community Structure**:
    - UPGMA clustering of localities and rock units
    - NMDS ordination
